@@ -1,0 +1,19 @@
+main {
+    background: linear-gradient(rgb(138, 66, 255), rgb(0, 128, 128), gray);
+}
+
+#gameDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#buttons {
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+}
+
+#choiceBtn {
+    margin: 10px;
+}
